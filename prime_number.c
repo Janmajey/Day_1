@@ -12,6 +12,5 @@ int main(){
     else{
         printf("Number is not prime");
     }
-    printf("Hello world");
-    printf("JMN");
+    printf("This is i check for the pollscm is work or not");
 }
