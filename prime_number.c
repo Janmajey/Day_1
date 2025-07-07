@@ -13,4 +13,5 @@ int main(){
         printf("Number is not prime");
     }
     printf("This is i check for the pollscm is work or not");
+    printf("Yes it is working");
 }
