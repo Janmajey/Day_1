@@ -12,4 +12,5 @@ int main(){
     else{
         printf("Number is not prime");
     }
+    print("Hello");
 }
